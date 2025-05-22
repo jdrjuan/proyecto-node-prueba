@@ -1,0 +1,12 @@
+{
+  "name": "proyecto-node-prueba",
+  "version": "1.0.0",
+  "description": "## Primera parte Este proyecto fue creado con el propósito de probar este archivo *README.md* y algunas cosas más de git, como por ejemplo, el uso de **.gitignore**",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

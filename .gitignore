@@ -1,0 +1,8 @@
+# Directorios
+node_modules
+temp
+tmp
+logs
+
+# Archivos
+*.log
